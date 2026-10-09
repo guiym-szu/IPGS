@@ -6,20 +6,15 @@ IPGS is a progressive representation for 4D Gaussian Splatting designed to suppo
 
 ## Qualitative Results
 
-### cut_roasted_beef
-<video controls autoplay muted loop playsinline width="100%">
-  <source src="asserts/video/cut_roasted_beef.mp4" type="video/mp4">
-</video>
+<video controls muted loop playsinline width="100%"> <source src="./asserts/video/cut_roasted_beef.mp4" type="video/mp4"> Your browser does not support HTML video. </video>
 
-### coffee_martini
-<video controls autoplay muted loop playsinline width="100%">
-  <source src="asserts/video/coffee_martini.mp4" type="video/mp4">
-</video>
+coffee_martini
 
-### flame_salmon_1
-<video controls autoplay muted loop playsinline width="100%">
-  <source src="asserts/video/flame_salmon_1.mp4" type="video/mp4">
-</video>
+<video controls muted loop playsinline width="100%"> <source src="./asserts/video/coffee_martini.mp4" type="video/mp4"> Your browser does not support HTML video. </video>
+
+flame_salmon_1
+
+<video controls muted loop playsinline width="100%"> <source src="./asserts/video/flame_salmon_1.mp4" type="video/mp4"> Your browser does not support HTML video. </video>
 
 
 <!-- ## Why IPGS?
